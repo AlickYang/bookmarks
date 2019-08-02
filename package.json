@@ -1,0 +1,11 @@
+{
+  "name": "link_home_page",
+  "version": "1.0.0",
+  "description": "Extension/Home page that allows for adding quick links to different websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alick Yang",
+  "license": "ISC"
+}
